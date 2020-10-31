@@ -7,4 +7,6 @@ public class HalloweenTest {
     // its fun to drive so far
 
     // line 1
+
+    // line 2
 }
